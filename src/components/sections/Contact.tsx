@@ -157,8 +157,8 @@ export default function Contact() {
                             transition={{ delay: 0.7 }}
                         >
                             <motion.a
-                                href="/resume.jpg"
-                                download="Shaik_Nishar_Basha_Resume.jpg"
+                                href="/resume.pdf"
+                                download="Shaik_Nishar_Basha_Resume.pdf"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="inline-flex items-center gap-3 btn-primary"

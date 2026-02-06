@@ -72,8 +72,8 @@ export default function Navbar() {
 
                         {/* Resume Download - Desktop */}
                         <motion.a
-                            href="/resume.jpg"
-                            download="Shaik_Nishar_Basha_Resume.jpg"
+                            href="/resume.pdf"
+                            download="Shaik_Nishar_Basha_Resume.pdf"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="hidden md:flex items-center gap-2 btn-primary"
@@ -120,8 +120,8 @@ export default function Navbar() {
                                 </motion.a>
                             ))}
                             <motion.a
-                                href="/resume.jpg"
-                                download="Shaik_Nishar_Basha_Resume.jpg"
+                                href="/resume.pdf"
+                                download="Shaik_Nishar_Basha_Resume.pdf"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="flex items-center justify-center gap-2 btn-primary mt-4"
