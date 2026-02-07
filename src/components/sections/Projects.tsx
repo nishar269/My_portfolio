@@ -10,7 +10,7 @@ const projects = [
         image: 'https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=800&q=80',
         tech: ['React', 'TypeScript', 'Tailwind CSS', 'Node.js', 'PostgreSQL'],
         github: 'https://github.com/nishar269/ncc-management',
-        live: '#',
+        live: 'https://ncc-digital-platform.vercel.app/login',
         category: 'fullstack',
         highlights: ['Role-based access control', 'Real-time notifications', 'Attendance tracking'],
     },
