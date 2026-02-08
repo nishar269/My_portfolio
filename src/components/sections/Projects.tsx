@@ -21,7 +21,7 @@ const projects = [
         image: 'https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&q=80',
         tech: ['HTML', 'CSS', 'JavaScript', 'React', 'Firebase'],
         github: 'https://github.com/nishar269/ecommerce',
-        live: '#',
+        live: 'https://malik-tea-stall.vercel.app/',
         category: 'frontend',
         highlights: ['Shopping cart functionality', 'User authentication', 'Responsive design'],
     },
