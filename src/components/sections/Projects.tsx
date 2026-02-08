@@ -20,7 +20,7 @@ const projects = [
             'A fully responsive e-commerce platform with product catalog, shopping cart, user authentication, and payment integration. Features an intuitive UI for seamless shopping experience.',
         image: 'https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&q=80',
         tech: ['HTML', 'CSS', 'JavaScript', 'React', 'Firebase'],
-        github: 'https://github.com/nishar269/ecommerce',
+        github: 'https://github.com/nishar269/malik-tea-stall',
         live: 'https://malik-tea-stall.vercel.app/',
         category: 'frontend',
         highlights: ['Shopping cart functionality', 'User authentication', 'Responsive design'],
