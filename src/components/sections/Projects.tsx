@@ -7,7 +7,7 @@ const projects = [
         title: 'NCC Cadet Management Website',
         description:
             'A comprehensive web platform for managing NCC cadet activities, attendance tracking, event scheduling, and performance reports. Built with modern web technologies for seamless user experience.',
-        image: 'https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=800&q=80',
+        image: '/ncc-project.png',
         tech: ['React', 'TypeScript', 'Tailwind CSS', 'Node.js', 'PostgreSQL'],
         github: 'https://github.com/nishar269/ncc-digital-platform',
         live: 'https://ncc-digital-platform.vercel.app/login',
@@ -18,7 +18,7 @@ const projects = [
         title: 'E-Commerce Website',
         description:
             'A fully responsive e-commerce platform with product catalog, shopping cart, user authentication, and payment integration. Features an intuitive UI for seamless shopping experience.',
-        image: 'https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&q=80',
+        image: '/ecommerce-project.png',
         tech: ['HTML', 'CSS', 'JavaScript', 'React', 'Firebase'],
         github: 'https://github.com/nishar269/malik-tea-stall',
         live: 'https://malik-tea-stall.vercel.app/',
@@ -29,7 +29,7 @@ const projects = [
         title: 'Portfolio Website',
         description:
             'Modern, responsive portfolio website built with React, Tailwind CSS, and Framer Motion. Features smooth animations, dark mode support, and optimized performance.',
-        image: 'https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&q=80',
+        image: '/portfolio-project.png',
         tech: ['React', 'TypeScript', 'Tailwind CSS', 'Framer Motion'],
         github: 'https://github.com/nishar269/My_portfolio',
         live: 'https://nisharportfolio.vercel.app/',

@@ -57,6 +57,11 @@ const skills = [
         icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg',
         color: 'from-green-500 to-green-600',
     },
+    {
+        name: 'Prompt Engineering',
+        icon: '/prompt-icon.svg',
+        color: 'from-amber-400 to-orange-500',
+    },
 ];
 
 export default function Skills() {
@@ -115,7 +120,7 @@ export default function Skills() {
                                 </div>
 
                                 {/* Name */}
-                                <span className="text-xs md:text-sm font-medium text-gray-700 dark:text-gray-300 text-center">
+                                <span className="text-[11px] md:text-sm font-medium text-gray-700 dark:text-gray-300 text-center leading-tight tracking-tight">
                                     {skill.name}
                                 </span>
                             </motion.div>
