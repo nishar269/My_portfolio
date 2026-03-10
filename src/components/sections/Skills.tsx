@@ -93,13 +93,13 @@ export default function Skills() {
                     {skills.map((skill, index) => (
                         <motion.div
                             key={skill.name}
-                            className="group relative"
+                            className="group relative h-full"
                             initial={{ opacity: 0, y: 30, scale: 0.8 }}
                             animate={isInView ? { opacity: 1, y: 0, scale: 1 } : {}}
                             transition={{ delay: index * 0.05, type: 'spring', stiffness: 100 }}
                         >
                             <motion.div
-                                className="flex flex-col items-center gap-3 p-4 rounded-2xl bg-white dark:bg-gray-800 shadow-lg border border-gray-100 dark:border-gray-700 cursor-pointer"
+                                className="flex flex-col items-center justify-between h-full gap-3 p-4 rounded-2xl bg-white dark:bg-gray-800 shadow-lg border border-gray-100 dark:border-gray-700 cursor-pointer"
                                 whileHover={{
                                     scale: 1.1,
                                     y: -8,
